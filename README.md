@@ -1,10 +1,10 @@
 # Hi 👋, I'm David Maged
 ### About Me 🚀
 🎓 I’m a 4th year Computer Science student at Ain Shams University. <br>
-👨‍💻 I'm interested in Mobile Application Development and Problem Solving. <br>
+👨‍💻 I'm interested in both Web and Mobile Application Development and Problem Solving. <br>
 📌Looking for an Internship as a Software Engineer.
 ### My Achievement 💪
-- Get the Silver medal at Huawei ICT Compition 2021-2022 (Cloud Track)
+- Get the Silver medal at Huawei ICT Competition 2021-2022 (Cloud Track)
 
 ### My Activities 🙌
 - Flutter committee member at [(iClub-FCIS-ASU)](https://www.facebook.com/iClub-FCIS-ASU-103826611069882) Learned Concepts related to developing mobile app using dart Programming language and Flutter framework.
