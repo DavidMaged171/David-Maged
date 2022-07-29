@@ -1,8 +1,8 @@
 # Hi 👋, I'm David Maged
 ### About Me 🚀
-🎓 I’m a 4th year Computer Science student at Ain Shams University. <br>
+🎓 I’m a Fresh Graduate from faculty of Computer Science at Ain Shams University. <br>
 👨‍💻 I'm interested in both Web and Mobile Application Development and Problem Solving. <br>
-📌Looking for an Internship as a Software Engineer.
+📌Looking for a Full time job or an Internship as a Software Engineer.
 ### My Achievement 💪
 - Get the Silver medal at Huawei ICT Competition 2021-2022 (Cloud Track)
 
