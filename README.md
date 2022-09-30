@@ -5,6 +5,8 @@
 📌Looking for a Full time job or an Internship as a Software Engineer.
 ### My Achievement 💪
 - Get the Silver medal at Huawei ICT Competition 2021-2022 (Cloud Track)
+- Ranked at 12th place on Ain Shames University at ECPC Qualifications 2022-2023
+- Ranked at 54th place on Ain Shames University at ECPC Qualifications 2021-2022
 
 ### My Activities 🙌
 - Flutter committee member at [(iClub-FCIS-ASU)](https://www.facebook.com/iClub-FCIS-ASU-103826611069882) Learned Concepts related to developing mobile app using dart Programming language and Flutter framework.
