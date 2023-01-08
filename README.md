@@ -2,7 +2,7 @@
 ### About Me 🚀
 🎓 I’m a Fresh Graduate from faculty of Computer Science at Ain Shams University. <br>
 👨‍💻 I'm interested in both Web and Mobile Application Development and Problem Solving. <br>
-📌Looking for a Full time job or an Internship as a Software Engineer.
+📌Looking for a Full time job as a Software Engineer.
 ### My Achievement 💪
 - Get the Silver medal at Huawei ICT Competition 2021-2022 (Cloud Track)
 - Ranked at 12th place on Ain Shames University at ECPC Qualifications 2022-2023
