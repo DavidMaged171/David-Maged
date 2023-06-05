@@ -9,6 +9,7 @@
 - Ranked at 54th place on Ain Shames University at ECPC Qualifications 2021-2022
 
 ### My Experience 🙌
+- Full Stack (Java & Angular) Internship at [(Atos)](https://atos.net/en/)
 - Software Engineer Internship at [(EBC - Egyptian Banks Company)](https://www.egyptianbanks.com/)
 - Flutter committee member at [(iClub-FCIS-ASU)](https://www.facebook.com/iClub-FCIS-ASU-103826611069882) Learned Concepts related to developing mobile app using dart Programming language and Flutter framework.
 - Linux committee member at [(OSC 'Open Source Community)](https://www.facebook.com/oscgeeks) - Learned concepts related to Linux and Bash Scriptting.
