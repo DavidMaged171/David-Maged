@@ -1,14 +1,15 @@
 # Hi 👋, I'm David Maged
 ### About Me 🚀
-🎓 I’m a Fresh Graduate from faculty of Computer Science at Ain Shams University. <br>
+
+🎓 I’m a Computer Science Graduate from faculty of Computer Science at Ain Shams University Class 2022. <br>
 👨‍💻 I'm interested in both Web and Mobile Application Development and Problem Solving. <br>
-📌Looking for a Full time job as a Software Engineer.
 ### My Achievement 💪
 - Get the Silver medal at Huawei ICT Competition 2021-2022 (Cloud Track)
 - Ranked at 12th place on Ain Shames University at ECPC Qualifications 2022-2023
 - Ranked at 54th place on Ain Shames University at ECPC Qualifications 2021-2022
 
 ### My Experience 🙌
+- Junoir Software Engineer at [(EBC - Egyptian Banks Company)](https://www.egyptianbanks.com/)
 - Full Stack (Java & Angular) Internship at [(Atos)](https://atos.net/en/)
 - Software Engineer Internship at [(EBC - Egyptian Banks Company)](https://www.egyptianbanks.com/)
 - Flutter committee member at [(iClub-FCIS-ASU)](https://www.facebook.com/iClub-FCIS-ASU-103826611069882) Learned Concepts related to developing mobile app using dart Programming language and Flutter framework.
